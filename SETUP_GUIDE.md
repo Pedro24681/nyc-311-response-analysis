@@ -1,8 +1,8 @@
-# 🚀 Setup Guide for Space Weather Case Study
+#  Setup Guide for Space Weather Case Study
 
 Welcome! This guide will help you get started with your space weather analysis project on your personal computer.
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, make sure you have:
 - Python 3.8 or higher installed ([Download here](https://www.python.org/downloads/))
@@ -11,7 +11,7 @@ Before you begin, make sure you have:
 
 ---
 
-## 🏁 Step-by-Step Setup Instructions
+##  Step-by-Step Setup Instructions
 
 ### Step 1: Clone the Repository to Your Computer
 
@@ -89,7 +89,7 @@ Watch as your data comes to life with visualizations! 📊
 
 ---
 
-## 🎯 Your Current Project Structure
+##  Your Current Project Structure
 
 ```
 space-weather-case-study/
@@ -107,7 +107,7 @@ space-weather-case-study/
 
 ---
 
-## 📚 What You'll Learn from the First Notebook
+##  What You'll Learn from the First Notebook
 
 The `01-data-load-and-eda.ipynb` notebook will teach you:
 - ✅ How to load CSV data with pandas
@@ -118,7 +118,7 @@ The `01-data-load-and-eda.ipynb` notebook will teach you:
 
 ---
 
-## 🎓 Next Steps After Running the First Notebook
+##  Next Steps After Running the First Notebook
 
 1. **Add More Data Sources**
    - Download solar wind data from [NASA OMNIWeb](https://omniweb.gsfc.nasa.gov/)
@@ -140,7 +140,7 @@ The `01-data-load-and-eda.ipynb` notebook will teach you:
 
 ---
 
-## 🚨 Troubleshooting
+##  Troubleshooting
 
 ### Issue: "pip is not recognized"
 **Solution:** Try `python -m pip install -r requirements.txt`
@@ -156,7 +156,7 @@ The `01-data-load-and-eda.ipynb` notebook will teach you:
 
 ---
 
-## 💡 Pro Tips
+##  Pro Tips
 
 - **Save your work often:** Jupyter auto-saves, but manually save with `Ctrl+S` (Windows/Linux) or `Cmd+S` (Mac)
 - **Use Markdown cells:** Add explanations between code cells to document your thinking
@@ -165,7 +165,7 @@ The `01-data-load-and-eda.ipynb` notebook will teach you:
 
 ---
 
-## 🌟 Understanding Your Data: Kp Index Quick Reference
+##  Understanding Your Data: Kp Index Quick Reference
 
 The Kp index measures geomagnetic activity (disturbance in Earth's magnetic field):
 
@@ -184,7 +184,7 @@ Your dataset shows a **Kp=7 event** on November 12, 2025 - a strong geomagnetic 
 
 ---
 
-## 📞 Need Help?
+##  Need Help?
 
 - Check the [pandas documentation](https://pandas.pydata.org/docs/)
 - Explore [matplotlib tutorials](https://matplotlib.org/stable/tutorials/index.html)
@@ -193,7 +193,7 @@ Your dataset shows a **Kp=7 event** on November 12, 2025 - a strong geomagnetic 
 
 ---
 
-## ✅ Checklist for First Session
+##  Checklist for First Session
 
 - [ ] Clone repository to your computer
 - [ ] Install Python packages from requirements.txt
@@ -205,6 +205,6 @@ Your dataset shows a **Kp=7 event** on November 12, 2025 - a strong geomagnetic 
 
 ---
 
-**Good luck with your space weather analysis! You've got this! 🚀📊**
+**Good luck with your space weather analysis! You've got this! **
 
 Last updated: 2025-11-13
