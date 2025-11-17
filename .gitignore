@@ -8,7 +8,14 @@ venv/
 env/
 .env
 *.log
+
+# Block outputs first (general rule)
 outputs/*.png
 outputs/*.jpg
+
+# Allow specific figure outputs for presentation (exception)
+!outputs/figures/*.png
+!outputs/figures/*.jpg
+
 .vscode/
 .idea/
