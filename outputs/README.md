@@ -154,20 +154,20 @@ print("✓ All outputs saved successfully!")
 ## What to Save
 
 ### Always Save:
-- ✅ Final visualizations for your report
-- ✅ Processed/cleaned datasets
-- ✅ Summary statistics
-- ✅ Model results and predictions
+-  Final visualizations for your report
+-  Processed/cleaned datasets
+-  Summary statistics
+-  Model results and predictions
 
 ### Consider Saving:
-- ⚠️ Intermediate analysis results
-- ⚠️ Exploratory plots (if interesting)
-- ⚠️ Data subsets for specific analysis
+-  Intermediate analysis results
+-  Exploratory plots (if interesting)
+-  Data subsets for specific analysis
 
 ### Don't Save:
-- ❌ Raw data (keep in `data/` folder)
-- ❌ Temporary test outputs
-- ❌ Duplicate files
+-  Raw data (keep in `data/` folder)
+-  Temporary test outputs
+-  Duplicate files
 
 
 
